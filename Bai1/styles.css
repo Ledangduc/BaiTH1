@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+.flower-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+}
+.flower-item {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+}
+.flower-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+table {
+    margin: 20px auto;
+    width: 80%;
+    border-collapse: collapse;
+}
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+table img {
+    border-radius: 5px;
+}
+a {
+    text-decoration: none;
+    color: blue;
+}
+a:hover {
+    text-decoration: underline;
+}

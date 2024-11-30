@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Hoa \u0111\u1ed7 quy\u00ean",
+        "description": "Lo\u00e0i hoa bi\u1ec3u t\u01b0\u1ee3ng cho s\u1ef1 \u1ea5m \u00e1p,sum v\u1ea7y ng\u00e0y t\u1ebft.",
+        "image": "images\/doquyen.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Hoa h\u1ea3i \u0111\u01b0\u1eddng",
+        "description": "Bi\u1ec3u t\u01b0\u1ee3ng c\u1ee7a s\u1ef1 may m\u1eafn,ph\u00fa qu\u00fd trong n\u0103m m\u1edbi.",
+        "image": "images\/haiduong.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Hoa mai",
+        "description": "Lo\u00e0i hoa \u0111\u1eb7c tr\u01b0ng c\u1ee7a m\u00f9a xu\u00e2n, mang \u00fd ngh\u0129a t\u00e0i l\u1ed9c.",
+        "image": "images\/mai.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Hoa t\u01b0\u1eddng vy",
+        "description": "Bi\u1ec3u t\u01b0\u1ee3ng cho s\u1ef1 cao qu\u00fd ,sang tr\u1ecdng ng\u00e0y \u0111\u1ea7u n\u0103m .",
+        "image": "images\/tuongvy.jpg"
+    }
+]

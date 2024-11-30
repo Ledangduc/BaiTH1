@@ -1,0 +1,25 @@
+Thành ph?n nào sau ðây KHÔNG ph?i là m?t thành ph?n giao di?n ngý?i dùng (UI) trong Android?
+A. TextView
+B. Button
+C. Service
+D. ImageView
+ANSWER: C
+
+Layout nào thý?ng ðý?c s? d?ng ð? s?p x?p các thành ph?n UI theo chi?u d?c ho?c chi?u ngang?
+A. RelativeLayout
+B. LinearLayout
+C. FrameLayout
+D. ConstraintLayout
+ANSWER: B
+
+Intent trong Android ðý?c s? d?ng ð? làm g??
+A. Hi?n th? thông báo cho ngý?i dùng.
+B. Lýu tr? d? li?u.
+C. Kh?i ch?y Activity.
+D. X? l? s? ki?n ch?m.
+ANSWER: C
+
+V?ng ð?i c?a m?t Activity b?t ð?u b?ng phýõng th?c nào?
+A. onStart()
+B. onResume()
+ANSWER: A
